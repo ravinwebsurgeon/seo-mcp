@@ -1,6 +1,8 @@
 build/*
 node_modules/*
 .wrangler/*
+temp_auto_push.bat
 src/worker/version.worker.ts
 instruct.txt
-.env
+.env.gitignore
+temp_interactive_push.bat
