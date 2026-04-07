@@ -6,3 +6,4 @@ src/worker/version.worker.ts
 instruct.txt
 .env.gitignore
 temp_interactive_push.bat
+.env.env
